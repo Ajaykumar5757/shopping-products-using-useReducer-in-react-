@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/css/main.896603bb.css",
+    "main.js": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/js/main.81617244.js",
+    "static/media/table-tennis.jpg": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/media/table-tennis.efdf0cd47346956c36e1.jpg",
+    "static/media/tennis.jpg": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/media/tennis.2253e3e3a1db2a136791.jpg",
+    "static/media/badminton.jpg": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/media/badminton.53b5b5d2ce0ba2b67038.jpg",
+    "static/media/arrow.jpg": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/media/arrow.7e47df863577b0ffba35.jpg",
+    "static/media/football.jpg": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/media/football.13fa5382eb1997bec37b.jpg",
+    "static/media/chess.jpg": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/media/chess.362a5a396547a1537957.jpg",
+    "index.html": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/index.html",
+    "main.896603bb.css.map": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/css/main.896603bb.css.map",
+    "main.81617244.js.map": "/Ajaykumar5757/shopping-products-using-useReducer-in-react-/static/js/main.81617244.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896603bb.css",
+    "static/js/main.81617244.js"
+  ]
+}
