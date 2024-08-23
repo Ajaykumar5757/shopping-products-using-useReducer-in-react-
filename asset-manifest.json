@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shopping-products-using-useReducer-in-react-/static/css/main.43782e0c.css",
+    "main.css": "/shopping-products-using-useReducer-in-react-/static/css/main.e322e6ac.css",
     "main.js": "/shopping-products-using-useReducer-in-react-/static/js/main.c26b416e.js",
     "static/media/table-tennis.jpg": "/shopping-products-using-useReducer-in-react-/static/media/table-tennis.efdf0cd47346956c36e1.jpg",
     "static/media/tennis.jpg": "/shopping-products-using-useReducer-in-react-/static/media/tennis.2253e3e3a1db2a136791.jpg",
@@ -9,11 +9,11 @@
     "static/media/football.jpg": "/shopping-products-using-useReducer-in-react-/static/media/football.13fa5382eb1997bec37b.jpg",
     "static/media/chess.jpg": "/shopping-products-using-useReducer-in-react-/static/media/chess.362a5a396547a1537957.jpg",
     "index.html": "/shopping-products-using-useReducer-in-react-/index.html",
-    "main.43782e0c.css.map": "/shopping-products-using-useReducer-in-react-/static/css/main.43782e0c.css.map",
+    "main.e322e6ac.css.map": "/shopping-products-using-useReducer-in-react-/static/css/main.e322e6ac.css.map",
     "main.c26b416e.js.map": "/shopping-products-using-useReducer-in-react-/static/js/main.c26b416e.js.map"
   },
   "entrypoints": [
-    "static/css/main.43782e0c.css",
+    "static/css/main.e322e6ac.css",
     "static/js/main.c26b416e.js"
   ]
 }
