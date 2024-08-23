@@ -53,8 +53,8 @@ function StartCounting() {
   return (
     <div class="main-content">
       <h1 style={{fontSize:"50px"}}>Sports Shop</h1>
-      <div className="grid-content">
-        <div className="content-one">
+      <div class="grid-content">
+        <div class="content-one">
           <img src={Archery} alt="Archery" width="450px" height="450px" />
           <h2>Archery Arrow</h2>
           <div class="count-content">
@@ -63,7 +63,7 @@ function StartCounting() {
             <button onClick={() => dispatch({ category: 'decrement-archery' })}>-</button>
           </div>
         </div>
-        <div className="content-one">
+        <div class="content-one">
           <img src={Badminton} alt="Badminton" width="450px" height="450px" />
           <h2>Badminton Racket</h2>
           <div class="count-content">
@@ -72,7 +72,7 @@ function StartCounting() {
             <button onClick={() => dispatch({ category: 'decrement-badminton' })}>-</button>
           </div>
         </div>
-        <div className="content-one">
+        <div class="content-one">
           <img src={Chess} alt="Chess" width="450px" height="450px" />
           <h2>Chess Board</h2>
           <div class="count-content">
@@ -81,7 +81,7 @@ function StartCounting() {
             <button onClick={() => dispatch({ category: 'decrement-chess' })}>-</button>
           </div>
         </div>
-        <div className="content-one">
+        <div class="content-one">
           <img src={Football} alt="Football" width="450px" height="450px" />
           <h2>Football</h2>
           <div class="count-content">
@@ -90,7 +90,7 @@ function StartCounting() {
             <button onClick={() => dispatch({ category: 'decrement-football' })}>-</button>
           </div>
         </div>
-        <div className="content-one">
+        <div class="content-one">
           <img src={TableTennis} alt="Table Tennis" width="450px" height="450px" />
           <h2>Table Tennis</h2>
           <div class="count-content">
@@ -99,7 +99,7 @@ function StartCounting() {
             <button onClick={() => dispatch({ category: 'decrement-tableTennis' })}>-</button>
           </div>
         </div>
-        <div className="content-one">
+        <div class="content-one">
           <img src={Tennis} alt="Tennis" width="450px" height="450px" />
           <h2>Tennis Racket</h2>
           <div class="count-content">
