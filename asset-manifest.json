@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shopping-products-using-useReducer-in-react-/static/css/main.896603bb.css",
-    "main.js": "/shopping-products-using-useReducer-in-react-/static/js/main.d18f7b8f.js",
+    "main.css": "/shopping-products-using-useReducer-in-react-/static/css/main.43782e0c.css",
+    "main.js": "/shopping-products-using-useReducer-in-react-/static/js/main.c26b416e.js",
     "static/media/table-tennis.jpg": "/shopping-products-using-useReducer-in-react-/static/media/table-tennis.efdf0cd47346956c36e1.jpg",
     "static/media/tennis.jpg": "/shopping-products-using-useReducer-in-react-/static/media/tennis.2253e3e3a1db2a136791.jpg",
     "static/media/badminton.jpg": "/shopping-products-using-useReducer-in-react-/static/media/badminton.53b5b5d2ce0ba2b67038.jpg",
@@ -9,11 +9,11 @@
     "static/media/football.jpg": "/shopping-products-using-useReducer-in-react-/static/media/football.13fa5382eb1997bec37b.jpg",
     "static/media/chess.jpg": "/shopping-products-using-useReducer-in-react-/static/media/chess.362a5a396547a1537957.jpg",
     "index.html": "/shopping-products-using-useReducer-in-react-/index.html",
-    "main.896603bb.css.map": "/shopping-products-using-useReducer-in-react-/static/css/main.896603bb.css.map",
-    "main.d18f7b8f.js.map": "/shopping-products-using-useReducer-in-react-/static/js/main.d18f7b8f.js.map"
+    "main.43782e0c.css.map": "/shopping-products-using-useReducer-in-react-/static/css/main.43782e0c.css.map",
+    "main.c26b416e.js.map": "/shopping-products-using-useReducer-in-react-/static/js/main.c26b416e.js.map"
   },
   "entrypoints": [
-    "static/css/main.896603bb.css",
-    "static/js/main.d18f7b8f.js"
+    "static/css/main.43782e0c.css",
+    "static/js/main.c26b416e.js"
   ]
 }
